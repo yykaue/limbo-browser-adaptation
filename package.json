@@ -2,7 +2,7 @@
   "name": "limbo-browser-adaptation",
   "version": "0.1.0",
   "description": "浏览器兼容",
-  "main": ".eslintrc.js",
+  "main": "index.js",
   "scripts": {
     "lint:ext": "eslint --ext .js .",
     "lint:fix": "eslint --fix .js .",
