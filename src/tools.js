@@ -25,7 +25,7 @@ function getBrowserVersion () {
     browser = 'Opera'
     version = parseFloat(RegExp.$1)
   }
-
+  
   return {
     browser,
     version
